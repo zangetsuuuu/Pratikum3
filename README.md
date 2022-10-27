@@ -72,6 +72,12 @@ Output:
 
 ## Menghitung luas dan keliling lingkaran
 
+### Flowchart
+
+![Lingkaran(Flowchart)](https://user-images.githubusercontent.com/115514467/198248176-68e8ea1e-2fcb-4cb7-abb7-2f70e61811c9.jpg)
+
+---------------------------------------------------
+
 ![Lingkaran(1)](https://user-images.githubusercontent.com/115514467/198241545-31d9ec13-bbfd-4490-9931-fa8fcb908494.jpg)
 
 Yang pertama, kita bisa meembuat input nilai jari-jari dengan fungsi `input()`
