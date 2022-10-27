@@ -45,3 +45,49 @@ Output:
 ![Latihan1(8)](https://user-images.githubusercontent.com/115514467/198215475-37d26dd6-645e-460a-a9ec-737d6776e16a.jpg)
 
 ## Latihan 2
+
+Menginput nilai variabel dengan fungsi `input()`
+
+![Latihan2(1)](https://user-images.githubusercontent.com/115514467/198241498-e5af5108-a3ed-44d1-9d52-6972ac7ed67b.jpg)
+
+Mencetak nilai variabel dengan fungsi `print()`
+
+![Latihan2(2)](https://user-images.githubusercontent.com/115514467/198241503-8c5b3db3-89a0-4df7-91d5-e250edb64bb0.jpg)
+
+Menggabungkan dua variabel dengan fungsi `format()`
+
+![Latihan2(3)](https://user-images.githubusercontent.com/115514467/198241508-801e8f29-fe1e-459c-9f5b-5725fb3bfa02.jpg)
+
+Agar kedua variabel tersebut bisa dilakukan operasi penjumlahan dan pembagian, kita harus mengkonversi kedua variabel menjadi integer terlebih dahulu, dengan cara:
+
+![Latihan2(4)](https://user-images.githubusercontent.com/115514467/198241515-524bbc83-a12b-46dc-878d-22cfd9d67a34.jpg)
+
+Output:
+
+![Latihan2(5)](https://user-images.githubusercontent.com/115514467/198241521-5ce457cb-0fce-4aab-82e3-987cd1466f57.jpg)
+
+## Latihan 3
+
+![Latihan3(Belah Ketupat)](https://user-images.githubusercontent.com/115514467/198241528-06aeb008-7e12-4613-aa58-ae6678e4df50.jpg)
+
+## Menghitung luas dan keliling lingkaran
+
+![Lingkaran(1)](https://user-images.githubusercontent.com/115514467/198241545-31d9ec13-bbfd-4490-9931-fa8fcb908494.jpg)
+
+Yang pertama, kita bisa meembuat input nilai jari-jari dengan fungsi `input()`
+
+![Lingkaran(2)](https://user-images.githubusercontent.com/115514467/198241549-ef476a31-df69-4099-a0ee-b07f727efcba.jpg)
+
+selanjutnya, kita masukkan rumus luas dan keliling lingkaran
+
+![Lingkaran(3)](https://user-images.githubusercontent.com/115514467/198241550-15143555-018b-44c3-908d-79b9a4d395d2.jpg)
+
+lalu, kita gunakan fungsi `print()` untuk mencetak hasil, dan lakukan formatting dengan fungsi `format()`
+
+![Lingkaran(4)](https://user-images.githubusercontent.com/115514467/198241552-611d1b3b-8829-4955-95ba-75c835e7414a.jpg)
+
+dan outputnya akan seperti ini:
+
+![Lingkaran(5)](https://user-images.githubusercontent.com/115514467/198241558-6395b6eb-a7e3-4abf-b6b3-8b051aa97050.jpg)
+
+### Sekian, terimakasih.
