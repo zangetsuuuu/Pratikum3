@@ -74,17 +74,17 @@ Output:
 
 ### Flowchart
 
-![Lingkaran(Flowchart)](https://user-images.githubusercontent.com/115514467/198248176-68e8ea1e-2fcb-4cb7-abb7-2f70e61811c9.jpg)
+![Lingkaran(Flowchart)](https://user-images.githubusercontent.com/115514467/198820116-5e854c6e-3e70-449d-bd4f-805bd30a30c9.jpg)
 
----------------------------------------------------
+---
 
 ![Lingkaran(1)](https://user-images.githubusercontent.com/115514467/198241545-31d9ec13-bbfd-4490-9931-fa8fcb908494.jpg)
 
-Yang pertama, kita bisa meembuat input nilai jari-jari dengan fungsi `input()`
+Yang pertama, kita bisa membuat input nilai jari-jari dengan fungsi `input()`
 
 ![Lingkaran(2)](https://user-images.githubusercontent.com/115514467/198241549-ef476a31-df69-4099-a0ee-b07f727efcba.jpg)
 
-selanjutnya, kita masukkan rumus luas dan keliling lingkaran
+selanjutnya, masukkan rumus luas dan keliling lingkaran
 
 ![Lingkaran(3)](https://user-images.githubusercontent.com/115514467/198241550-15143555-018b-44c3-908d-79b9a4d395d2.jpg)
 
